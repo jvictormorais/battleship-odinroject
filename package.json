@@ -1,0 +1,25 @@
+{
+  "name": "battleship-odinroject",
+  "version": "1.0.0",
+  "description": "Battleship game build using JavaScript and test with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvictormorais/battleship-odinroject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvictormorais/battleship-odinroject/issues"
+  },
+  "homepage": "https://github.com/jvictormorais/battleship-odinroject#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
