@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){const e=new Array(10).fill(null).map((()=>new Array(10).fill(null))),t=document.querySelector(".player-side");e.forEach((e=>{const a=document.createElement("div");a.classList.add("row"),e.forEach((e=>{const t=document.createElement("div");t.classList.add("square"),t.innerText=e,t.dataset.arr=e,a.append(t)})),t.append(a)}))}()})();
